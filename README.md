@@ -38,6 +38,19 @@ Sleep 15500
 
 Simple isn't it? :)
 
+Get Mouse Pos
+=============
+
+As the name implies, retrieve the mouse's current position. Press Windows+z to display what the position is. I made this just to be able to finetune what position the Snowball script sends the cursor to, so if it's moving the cursor to the wrong place you may be on the wrong resolution and need to edit the ahk file.
+
+Source Code:
+
+<pre>
+#z::
+MouseGetPos, xpos, ypos 
+Msgbox, The cursor is at X%xpos% Y%ypos%.
+</pre>
+
 WTS - Snow Parcels
 =============
 
