@@ -21,6 +21,7 @@ Have fun racking up those snow parcels and Happy Life Day! ^^
 
 If you understand some coding, here's the source file's code:
 
+<pre>
 #b::
 Loop
 {
@@ -33,6 +34,7 @@ Send ^+4
 Sleep 15500
 } 
 #n::Pause
+</pre>
 
 Simple isn't it? :)
 
@@ -43,6 +45,7 @@ This is a script with a custom message to sell those parcels, given the prices c
 
 Source Code:
 
+<pre>
 ShiftClick()
 {
 Send {Shift down}
@@ -62,3 +65,4 @@ ShiftClick()
 Send {Space}for 300k. /W me :)
 ;Send {Enter}
 ;Remember to look into coordinates for clicking, it would make this script a lot better!
+</pre>
