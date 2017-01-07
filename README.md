@@ -35,3 +35,30 @@ Sleep 15500
 #n::Pause
 
 Simple isn't it? :)
+
+WTS - Snow Parcels
+=============
+
+This is a script with a custom message to sell those parcels, given the prices change all the time plus you may want to say something different. Check it out if you want, but you will definitely need Autohotkey if you want to change this to your liking.
+
+Source Code:
+
+ShiftClick()
+{
+Send {Shift down}
+MouseClick
+Send {Shift up}
+}
+#i::
+Send /3{Space}
+Send WTS 1600x
+Sleep 500
+ShiftClick()
+Send, ,
+Send {Space}
+Send 99x
+Sleep 500
+ShiftClick()
+Send {Space}for 300k. /W me :)
+;Send {Enter}
+;Remember to look into coordinates for clicking, it would make this script a lot better!
