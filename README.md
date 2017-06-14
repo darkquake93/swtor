@@ -85,7 +85,7 @@ Send {Space}for 300k. /W me :)
 AutoNightlife
 =============
 
-Tired of repeatedly right-clicking on those slot machines? Look no further! This script will simply keep right clicking, saving you the hassle and increasing your chances of winning (since you'll technically "be there" right-clicking on one computer while gaming on the other, or simply having this running while you sleep! Windows+t starts the script loop and Windows+p pauses it.
+Tired of repeatedly right-clicking on those slot machines? Look no further! This script will simply keep right clicking, saving you the hassle and increasing your chances of winning (since you'll technically "be there" right-clicking on one computer while gaming on the other, or simply having this running while you sleep!) Windows+t starts the script loop and Windows+p pauses it.
 
 Source Code:
 
