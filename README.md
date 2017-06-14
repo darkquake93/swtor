@@ -3,6 +3,8 @@ SWTOR-scripts
 
 Enjoy the scripts!
 
+Donations welcome ;) https://twitch.streamlabs.com/darkness9t3
+
 This is where my scripts will go which I make for the Star Wars: The Old Republic game :)
 
 All you need to do is run the exes here which I have converted from the AHK files.
