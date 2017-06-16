@@ -3,7 +3,7 @@ Darkquake's SWTOR Scripts
 
 Enjoy the scripts!
 
-(https://twitch.streamlabs.com/darkness9t3 "Donations welcome ;)")
+[Donations welcome ;)](https://twitch.streamlabs.com/darkness9t3/)
 
 This is where my scripts will go which I make for the Star Wars: The Old Republic game :)
 
@@ -38,9 +38,7 @@ Send ^+4
 Sleep 15500
 } 
 #n::Pause
-
 ```
-
 Simple isn't it? :) 
 
 Get Mouse Pos
@@ -56,7 +54,6 @@ MouseGetPos, xpos, ypos
 Msgbox, The cursor is at X%xpos% Y%ypos%.
 
 ```
-
 WTS - Snow Parcels
 =============
 
@@ -86,7 +83,6 @@ Send {Space}for 300k. /W me :)
 ;Remember to look into coordinates for clicking, it would make this script a lot better!
 
 ```
-
 AutoNightlife
 =============
 
