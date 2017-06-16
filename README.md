@@ -25,7 +25,7 @@ Have fun racking up those snow parcels and Happy Life Day! ^^
 
 If you understand some coding, here's the source file's code:
 
-```
+```javascript
 #b::
 Loop
 {
