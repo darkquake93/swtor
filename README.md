@@ -3,6 +3,7 @@ Darkquake's SWTOR Scripts
 
 Enjoy the scripts!
 
+Proper page with a sexy theme: https://darkquake93.github.io/swtor/
 [Donations welcome ;)](https://twitch.streamlabs.com/darkness9t3/)
 
 This is where my scripts will go which I make for the Star Wars: The Old Republic game :)
