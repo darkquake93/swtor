@@ -25,7 +25,7 @@ Have fun racking up those snow parcels and Happy Life Day! ^^
 
 If you understand some coding, here's the source file's code:
 
-```
+```javascript
 #b::
 Loop
 {
@@ -50,7 +50,7 @@ As the name implies, retrieve the mouse's current position. Press Windows+z to d
 
 Source Code:
 
-```
+```javascript
 #z::
 MouseGetPos, xpos, ypos 
 Msgbox, The cursor is at X%xpos% Y%ypos%.
@@ -64,7 +64,7 @@ This is a script with a custom message to sell those parcels, given the prices c
 
 Source Code:
 
-```
+```javascript
 ShiftClick()
 {
 Send {Shift down}
@@ -94,7 +94,7 @@ Tired of repeatedly right-clicking on those slot machines? Look no further! This
 
 Source Code:
 
-```
+```javascript
 #t::
 Loop
 {
