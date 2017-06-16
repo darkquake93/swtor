@@ -25,7 +25,7 @@ Have fun racking up those snow parcels and Happy Life Day! ^^
 
 If you understand some coding, here's the source file's code:
 
-<pre>
+```
 #b::
 Loop
 {
@@ -38,7 +38,7 @@ Send ^+4
 Sleep 15500
 } 
 #n::Pause
-</pre>
+```
 
 Simple isn't it? :) 
 
@@ -49,11 +49,12 @@ As the name implies, retrieve the mouse's current position. Press Windows+z to d
 
 Source Code:
 
-<pre>
+```
 #z::
 MouseGetPos, xpos, ypos 
 Msgbox, The cursor is at X%xpos% Y%ypos%.
-</pre>
+
+```
 
 WTS - Snow Parcels
 =============
@@ -62,7 +63,7 @@ This is a script with a custom message to sell those parcels, given the prices c
 
 Source Code:
 
-<pre>
+```
 ShiftClick()
 {
 Send {Shift down}
@@ -82,7 +83,8 @@ ShiftClick()
 Send {Space}for 300k. /W me :)
 ;Send {Enter}
 ;Remember to look into coordinates for clicking, it would make this script a lot better!
-</pre>
+
+```
 
 AutoNightlife
 =============
@@ -91,7 +93,7 @@ Tired of repeatedly right-clicking on those slot machines? Look no further! This
 
 Source Code:
 
-<pre>
+```
 #t::
 Loop
 {
@@ -99,4 +101,5 @@ MouseClick,right
 Sleep 500
 } 
 #o::Pause
-</pre>
+
+```
