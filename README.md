@@ -3,6 +3,10 @@ Darkquake's SWTOR Scripts
 
 Enjoy the scripts!
 
+<<<<<<< HEAD
+=======
+[Donations welcome ;)](https://twitch.streamlabs.com/darkness9t3/)
+>>>>>>> 179b008ad405126bb2889d016f8fe0dfb3072691
 
 This is where my scripts will go which I make for the Star Wars: The Old Republic game :)
 
