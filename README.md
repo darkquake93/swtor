@@ -3,10 +3,7 @@ Darkquake's SWTOR Scripts
 
 Enjoy the scripts!
 
-<<<<<<< HEAD
-=======
 [Donations welcome ;)](https://twitch.streamlabs.com/darkness9t3/)
->>>>>>> 179b008ad405126bb2889d016f8fe0dfb3072691
 
 This is where my scripts will go which I make for the Star Wars: The Old Republic game :)
 
@@ -55,7 +52,6 @@ Source Code:
 #z::
 MouseGetPos, xpos, ypos 
 Msgbox, The cursor is at X%xpos% Y%ypos%.
-
 ```
 WTS - Snow Parcels
 =============
@@ -84,7 +80,6 @@ ShiftClick()
 Send {Space}for 300k. /W me :)
 ;Send {Enter}
 ;Remember to look into coordinates for clicking, it would make this script a lot better!
-
 ```
 AutoNightlife
 =============
@@ -101,5 +96,4 @@ MouseClick,right
 Sleep 500
 } 
 #o::Pause
-
 ```
