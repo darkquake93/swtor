@@ -26,18 +26,19 @@ Have fun racking up those snow parcels and Happy Life Day! ^^
 If you understand some coding, here's the source file's code:
 
 ```
-#b::
-Loop
-{
-MouseMove, 1403, 827
-MouseClick
-Sleep 250
-MouseClick,right
-Sleep 250
-Send ^+4
-Sleep 15500
-} 
-#n::Pause
+> #b::
+> Loop
+> {
+> MouseMove, 1403, 827
+> MouseClick
+> Sleep 250
+> MouseClick,right
+> Sleep 250
+> Send ^+4
+> Sleep 15500
+> } 
+> #n::Pause
+
 ```
 
 Simple isn't it? :) 
