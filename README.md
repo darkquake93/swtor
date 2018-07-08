@@ -3,7 +3,7 @@ Darkquake's SWTOR Scripts
 
 Enjoy the scripts! Check the releases at the top to grab em!
 
-Proper page with a sexy theme: https://darkquake93.github.io/swtor/
+Proper page with a better theme: https://darkquake93.github.io/swtor/
 
 [Donations welcome ;)](https://twitch.streamlabs.com/darkness9t3/)
 
