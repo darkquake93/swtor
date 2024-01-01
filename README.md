@@ -99,3 +99,72 @@ Sleep 500
 } 
 #o::Pause
 ```
+Crafting
+=============
+
+Ah the painstakingly slow process of crafting stuff. Wish it could be automated instead? Good job I've done just that :D Windows+J starts the loop, Windows+N pauses it.
+
+Source Code:
+
+```
+#j::
+Loop
+{
+;Select the 1st companion
+Click, 1584 872
+Click, 1538 944
+;Click Craft
+Click, 1791 997
+;Select the 2nd companion
+Click, 1584 872
+Click, 1584 1014
+;Click Craft
+Click, 1791 997
+;Select the 3rd companion
+Click, 1584 872
+Click, 1520 1093
+;Click Craft
+Click, 1791 997
+;Select the 4th (scroll down)
+Click, 1584 872
+MouseMove, 1500, 946
+Click, WheelDown
+Click, 1542 1087
+Click, 1791 997
+;Select the 5th (scroll down twice)
+Click, 1584 872
+MouseMove, 1500, 946
+Click, WheelDown
+Click, WheelDown
+Click, 1542 1087
+Click, 1791 997
+;Select the 6th (scroll down thrice)
+Click, 1584 872
+MouseMove, 1500, 946
+Click, WheelDown
+Click, WheelDown
+Click, WheelDown
+Click, 1542 1087
+Click, 1791 997
+;Select the 7th (scroll down four times)
+Click, 1584 872
+MouseMove, 1500, 946
+Click, WheelDown
+Click, WheelDown
+Click, WheelDown
+Click, WheelDown
+Click, 1542 1087
+Click, 1791 997
+;Select the 8th (scroll down five times)
+Click, 1584 872
+MouseMove, 1500, 946
+Click, WheelDown
+Click, WheelDown
+Click, WheelDown
+Click, WheelDown
+Click, WheelDown
+Click, 1542 1087
+Click, 1791 997
+} 
+#n::Pause
+```
