@@ -1,7 +1,7 @@
 Darkquake's SWTOR Scripts
 =========================
 
-Enjoy the scripts! Check the releases at the top to grab em!
+Enjoy the scripts! Check the releases on the side to grab em!
 
 A more beautiful presentation: https://darkquake93.github.io/swtor/
 
